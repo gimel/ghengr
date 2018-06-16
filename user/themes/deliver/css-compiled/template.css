@@ -21,6 +21,7 @@ html, body {
 body {
   background: #fff;
   color: #9A9898;
+  overflow-y: scroll;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
